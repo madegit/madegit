@@ -132,7 +132,6 @@
 ## 📫 Let's Connect!
 
 - 📧 **Email:** theadeleyematthew@gmail.com
-- 📱 **Phone:** +2347030161207
 - 🌐 **LinkedIn:** [Adeleye Matthew](https://linkedin.com/in/adeleye-matthew-03413118a)
 - 🏠 **Location:** Lagos, Nigeria
 
