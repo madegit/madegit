@@ -8,8 +8,8 @@ GitHub
 
 ### ❤️ Support My Work
 
-<a href="https://goheartme.com/matt" target="_blank" rel="noopener noreferrer">
-  <img src="https://goheartme.com/api/widget-image/?type=donation-button&user=matt&theme=light&showHeartCount=true" alt="Support matt on GoHeartMe" />
+<a href="https://goheartme.com/api/widget-click/?widget=cmqaabacr00012cqzepgqqi85" target="_blank" rel="noopener noreferrer">
+  <img src="https://goheartme.com/api/widget-image/?type=goheart-button&user=matt&theme=light&showHeartCount=false" alt="Support Adeleye Matthew on GoHeartMe. Send Hearts, Shop Digital Products and Fund What Matters." style="max-width:100%;display:block;" />
 </a>
 
 > Frontend Developer, Product Builder & UI/UX Designer passionate about creating scalable web products, delightful user experiences, and impactful digital solutions for African and global audiences.
