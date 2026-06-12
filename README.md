@@ -142,7 +142,7 @@
 ### 😎💲 GoHeartMe
 
 <a href="https://goheartme.com/api/widget-click/?widget=cmqaabacr00012cqzepgqqi85" target="_blank" rel="noopener noreferrer">
-  <img src="https://goheartme.com/api/widget-image/?type=goheart-button&user=matt&theme=light&showHeartCount=false" alt="Support Adeleye Matthew on GoHeartMe. Send Hearts, Shop Digital Products and Fund What Matters." style="max-width:100%;display:block;" />
+  <img src="https://goheartme.com/api/widget-image/?type=goheart-button&user=matt&theme=light&showHeartCount=true" alt="Support Adeleye Matthew on GoHeartMe. Send Hearts, Shop Digital Products and Fund What Matters." style="max-width:100%;display:block;" />
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=madegit&color=brightgreen)
