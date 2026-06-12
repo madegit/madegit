@@ -86,8 +86,8 @@
 - **Tech Stack:** WordPress, WooCommerce, Custom Themes
 - Retail grocery and wellness products with secure payment integration
 
-### 💰 [SupportThis.org](https://supportthis.org)
-**Crowdfunding Platform**
+### ❤️ [GoHeartMe](https://goheartme.com)
+**Creator Support Platform**
 - **Tech Stack:** Next.js 14, Tailwind CSS, MongoDB, Node.js
 - Community support platform for creators and open-source projects
 
@@ -120,12 +120,12 @@
 
 ---
 
-## 🌟 What I'm Currently Working On
+## 🌟 Currently Building
 
-- 🔭 Building innovative web applications with Next.js and TypeScript
-- 🌱 Exploring advanced animation techniques with Framer Motion and Spline 3D
-- 👯 Looking to collaborate on open-source projects and educational platforms
-- 💬 Ask me about React, Next.js, TypeScript, and modern frontend architecture
+- ❤️ GoHeartMe, a creator monetization platform for Africa
+- 💳 Dime Wallet, a smart wallet and virtual card platform
+- 🔭 Advanced frontend applications with Next.js and TypeScript
+- 🌱 Interactive user experiences using Framer Motion and modern web technologies
 
 ---
 
