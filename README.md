@@ -143,8 +143,5 @@
 <a href="https://goheartme.com/api/widget-click/?widget=cmqaabacr00012cqzepgqqi85" target="_blank" rel="noopener noreferrer">
   <img src="https://goheartme.com/api/widget-image/?type=goheart-button&user=matt&theme=light&showHeartCount=true" alt="Support Adeleye Matthew on GoHeartMe. Send Hearts, Shop Digital Products and Fund What Matters." width="320" height="85" style="max-width:100%;display:block;" />
 </a>
-<a href="https://goheartme.com/api/widget-click/?widget=cmq9sfxb6000257vhps2spq6e" target="_blank" rel="noopener noreferrer">
-  <img src="https://goheartme.com/api/widget-image/?type=goal-tracker&user=matt&theme=dark&title=Get+a+gaming+pc" alt="Support Adeleye Matthew on GoHeartMe. Send Hearts, Shop Digital Products and Fund What Matters." width="320" height="136" style="max-width:100%;display:block;" />
-</a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=madegit&color=brightgreen)
